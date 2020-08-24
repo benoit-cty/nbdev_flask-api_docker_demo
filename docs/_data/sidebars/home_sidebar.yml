@@ -11,7 +11,7 @@ entries:
       url: /
     - output: web,pdf
       title: Core Module
-      url: /core
+      url: core.html
     output: web
     title: one_ai_to_rule_them_all
   output: web
