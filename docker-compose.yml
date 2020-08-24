@@ -1,0 +1,11 @@
+version: '3.3' # Docker compose version, not our application !
+
+services:
+  one_ai_to_rule_them_all:
+    build: ./
+    ports:
+      # port exposed on host : port in guest
+      - 8081:5000 # Flask
+    # environment:
+    #   # Environment variable to set in guest
+    #   HOME_DIR: "/opt/oco2peak/"
