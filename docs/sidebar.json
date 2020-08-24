@@ -1,10 +1,6 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "one_ai_to_rule_them_all": {
+    "Overview": "/",
+    "Core Module": "/core"
   }
 }
